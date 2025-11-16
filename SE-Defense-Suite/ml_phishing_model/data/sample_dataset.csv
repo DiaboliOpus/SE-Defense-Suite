@@ -1,0 +1,101 @@
+subject,body,label
+Urgent Account Update,Your account requires immediate verification. Click the link to secure your data.,phishing
+Password Expired,Your password has expired. Reset it immediately using this link.,phishing
+Unusual Login Attempt,We detected suspicious activity in your account from a new device.,phishing
+Verify Billing Information,Your payment method was declined. Please update your info.,phishing
+New Voicemail,You have received a new secure voicemail. Log in to hear it.,phishing
+Security Alert,Your account has been temporarily locked. Confirm your identity.,phishing
+Delivery Failed,Your parcel delivery failed. Please verify your address.,phishing
+Banking Notification,Unauthorized transaction detected. Validate your account now.,phishing
+Action Required,Your account will be closed in 24 hours unless verified.,phishing
+Employee Payroll Issue,We could not process your salary. Update your payment details.,phishing
+Office365 Password Reset,"Your Office365 password was reset. If this wasn't you, verify here.",phishing
+Invoice Overdue,Your invoice is overdue. Download the attached file to resolve.,phishing
+Confirm Email Ownership,We need to confirm that this email belongs to you.,phishing
+Account Disabled,Your account has been disabled. Reactivate now.,phishing
+VPN Access Change,Your VPN credentials will expire. Renew immediately.,phishing
+Tax Refund Notice,You have unclaimed tax refunds. Submit your information.,phishing
+Job Application Update,We received your application. Fill in additional info to continue.,phishing
+Student Loan Forgiveness,You qualify for loan forgiveness. Complete form online.,phishing
+Bank Verification Required,Your account is on hold. Confirm your identity.,phishing
+Mailbox Full,Your mailbox storage is full. Click to increase capacity.,phishing
+Service Suspension,Your service will be suspended. Make payment now.,phishing
+Payment Confirmation Needed,We could not verify your recent payment. Provide details.,phishing
+Crypto Wallet Alert,Unusual activity detected in your crypto wallet.,phishing
+Corporate Benefits Update,Confirm your corporate benefits information.,phishing
+Important Document Enclosed,Download document to review new policy.,phishing
+File Shared With You,A secure file has been shared. Log in to view it.,phishing
+VoIP System Alert,VoIP password expired. Update login credentials.,phishing
+Payroll Review,HR requires updated payroll information.,phishing
+Security Certificate Expired,Update your security certificate to avoid lockout.,phishing
+Reset Your Credentials,Admin requested that you reset your credentials.,phishing
+Office Parking Renewal,Renew your parking pass. Payment needed.,phishing
+COVID-19 HR Notice,Update your health survey using the provided portal.,phishing
+Black Friday Reward,You won a $500 Amazon gift card. Claim now.,phishing
+System Upgrade Required,Install required update to continue using system.,phishing
+Verify Your Email Address,Click to verify your email.,phishing
+HR Request,HR uploaded a new document. Download to sign.,phishing
+Payment Received,Your invoice was processed. View receipt here.,phishing
+Company Compliance Update,Complete compliance form to avoid penalties.,phishing
+New Voice Message,Access your encrypted voicemail message.,phishing
+Secure Your Account,Your account security score is low. Improve it.,phishing
+Subscription Renewal,Your subscription is expiring. Renew now.,phishing
+Win an iPhone,Join our giveaway to win an iPhone.,phishing
+Login Required,Your login session expired. Sign in to continue.,phishing
+Email Access Restricted,Your email access was limited. Restore access.,phishing
+Admin Notification,Your admin panel requires verification.,phishing
+Prize Winner,You won a prize. Send your details to claim.,phishing
+Account Review Needed,Your account needs a security review.,phishing
+Client Payment Pending,Client has pending payment. View invoice.,phishing
+Update Required,System update required to maintain access.,phishing
+Secure Document,Sign in to view secure document.,phishing
+Meeting Reminder,Reminder of tomorrow's project meeting.,benign
+Team Lunch,We are planning a team lunch this Friday.,benign
+Monthly Report,Please review the attached monthly report.,benign
+Product Update,Here is the latest update on the product roadmap.,benign
+Welcome Aboard,Welcome to the company! We are excited to have you.,benign
+Schedule Confirmation,Confirming our appointment for next week.,benign
+New Policy,Attached is the updated company policy.,benign
+Project Feedback,Please provide feedback on the recent project.,benign
+Training Invitation,You are invited to attend the cybersecurity training.,benign
+Office Renovation,The office will undergo renovations this weekend.,benign
+Meeting Minutes,Here are the minutes from today’s meeting.,benign
+Code Review,Please review my latest code submission.,benign
+Happy Birthday,Wishing you a happy birthday!,benign
+Travel Plan,Here is your itinerary for next week’s trip.,benign
+Conference Invite,You are invited to the annual IT conference.,benign
+Timesheet Reminder,Don't forget to submit your timesheet.,benign
+Team Update,Here’s an update on our team's goals.,benign
+Holiday Notice,The office will be closed for holidays next week.,benign
+New Hire Announcement,Join us in welcoming our new software engineer.,benign
+Budget Approval,Your budget request has been approved.,benign
+Weekly Summary,Here is the weekly summary report.,benign
+Maintenance Notice,Scheduled maintenance will occur tonight.,benign
+Server Restart,The server will restart tonight at 2 AM.,benign
+Client Feedback,The client has provided feedback on the proposal.,benign
+Document Review,Please review the attached document.,benign
+Leave Request,Your leave request was approved.,benign
+Workshop Reminder,Reminder for tomorrow’s workshop.,benign
+Team Activity,We are organizing a team-building activity.,benign
+Coffee Break,Join us for a coffee break in the lounge.,benign
+Office Supplies,New office supplies have arrived.,benign
+Password Change,This is a reminder to update your password this month.,benign
+Project Proposal,Attached is the updated project proposal.,benign
+New Ticket,A new support ticket has been created.,benign
+Release Notes,Here are the latest release notes.,benign
+Deployment Done,Deployment of latest version is complete.,benign
+Bug Fix Update,A bug has been fixed in production.,benign
+New Guidelines,Attached are the new HR guidelines.,benign
+Office Move,We will be moving to a new office floor.,benign
+Lunch Menu,Here is the cafeteria lunch menu.,benign
+Printer Issue,The printer on floor 3 is currently down.,benign
+Staff Meeting,Staff meeting scheduled for 4 PM today.,benign
+Weather Alert,Heavy rain expected tomorrow. Plan commute accordingly.,benign
+Team Announcement,We have a new team member joining today.,benign
+Invoice Requested,Finance requested the latest invoice copy.,benign
+Shift Change,Your shift schedule has been updated.,benign
+Performance Review,Your performance review is ready.,benign
+Help Request,Can you help me with this report?,benign
+Quick Question,I have a quick question regarding the project.,benign
+File Uploaded,I uploaded the new file to the shared drive.,benign
+Thank You,Thanks for your support on the project.,benign
