@@ -1,0 +1,6 @@
+{
+    "ml_model_path": "ml_phishing_model/phishing_classifier.pkl",
+    "vectorizer_path": "ml_phishing_model/tfidf_vectorizer.pkl",
+    "logs_output": "logs/",
+    "reports_output": "reports/"
+}
