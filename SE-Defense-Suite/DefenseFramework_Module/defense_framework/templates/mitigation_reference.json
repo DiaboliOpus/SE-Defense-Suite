@@ -1,0 +1,11 @@
+{
+    "Phishing": [
+        "Conduct quarterly phishing simulations",
+        "Deploy email filtering with DMARC/DKIM/SPF",
+        "Mandatory MFA"
+    ],
+    "Pretexting": [
+        "Implement identity verification before sensitive actions",
+        "Train staff to recognize manipulation cues"
+    ]
+}

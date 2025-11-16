@@ -1,0 +1,86 @@
+===============================================
+Corporate Social Engineering Defense Strategy
+===============================================
+
+1. Executive Summary
+--------------------
+This document outlines a complete corporate defense strategy against
+social engineering attacks, including:
+- 5x5 risk assessment
+- ISO 27001 Annex A control mapping
+- NIST SP 800-53 control mapping
+- CIS Controls v8 best practices
+- Human-factor mitigation and awareness strategy
+
+This strategy was prepared to support the organization’s efforts in
+strengthening resilience against phishing, pretexting, baiting, and
+other manipulation-based cyber threats.
+
+2. Risk Matrix Overview
+-----------------------
+The following matrix evaluates social engineering risks based on:
+
+Likelihood:
+1 = Rare
+2 = Unlikely
+3 = Possible
+4 = Likely
+5 = Almost Certain
+
+Impact:
+1 = Negligible
+2 = Minor
+3 = Moderate
+4 = Major
+5 = Critical
+
+Risk Score = Likelihood × Impact
+
+Score Interpretation:
+1–5:     Low
+6–12:    Medium
+15–20:   High
+21–25:   Critical
+
+This module dynamically generates the organization’s risk rating based
+on specific social engineering threat scenarios.
+
+3. ISO 27001 Annex A Controls
+-----------------------------
+Relevant Annex A controls include:
+
+A.5 – Information Security Policies  
+A.6 – Organization of Information Security  
+A.7 – Human Resource Security  
+A.9 – Access Control  
+A.12 – Operations Security  
+A.13 – Communications Security  
+A.16 – Incident Management  
+A.18 – Compliance  
+
+These controls are mapped automatically within the framework.
+
+4. NIST SP 800-53 Control Families
+----------------------------------
+The framework integrates recommended controls from:
+
+- AT (Awareness and Training)
+- AC (Access Control)
+- IR (Incident Response)
+- AU (Audit and Accountability)
+- CA (Security Assessment)
+- PM (Program Management)
+- PS (Personnel Security)
+
+These controls enhance resilience against human-based attacks.
+
+5. CIS Controls v8 Mapping
+--------------------------
+The system includes recommendations from CIS Controls:
+
+1. Inventory and Control of Assets  
+2. Data Protection  
+3. Secure Configuration  
+4. Email and Browser Protections  
+5. Account Management  
+6. Security Awareness and Skills Train
