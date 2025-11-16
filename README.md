@@ -1,2 +1,13 @@
-# SE-Defense-Suite
-A comprehensive Social Engineering Defense Toolkit combining machine learning, phishing detection, URL risk analysis, log monitoring, awareness simulation, and SOC-style dashboards.   Developed as part of the master's research:  "Analysis of Social Engineering Methods and Development of a Defense Strategy for Corporate Structures."
+# SE-Defense-Suite  
+A comprehensive Social Engineering Defense Toolkit combining machine learning, log analysis, URL scanning, phishing detection, awareness simulation, and SOC-style dashboards.
+
+## Modules
+- ML Phishing Email Classifier  
+- URL Risk Analyzer  
+- Log Monitoring & Brute-force Detection  
+- Social Engineering Attack Simulator  
+- Flask Web Dashboard  
+- Corporate Defense Strategy Framework
+
+This project is part of a master's dissertation:  
+**"Analysis of Social Engineering Methods and Development of a Defense Strategy for Corporate Structures."**
