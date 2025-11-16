@@ -1,0 +1,24 @@
+{
+    "templates": [
+        {
+            "subject": "Urgent Account Verification Required",
+            "template": "Hello {{USERNAME}},\n\nYour {{SERVICE}} account detected a login attempt from {{COUNTRY}} using a {{DEVICE}}. If this was not you, verify immediately.\n\nDate: {{DATE}}\nVerification Link (auto-expiring): http://secure-verify-login.com/update\n\nRegards,\nSecurity Team"
+        },
+        {
+            "subject": "Payroll Issue \u2013 Action Needed",
+            "template": "Dear {{USERNAME}},\n\nYour recent payroll of ${{AMOUNT}} could not be processed. Please update your banking information.\n\nTime: {{DATE}}\nPortal: http://company-finance-secure.com/login\n\nFailure to act may delay salary payment."
+        },
+        {
+            "subject": "Your Email Password Has Expired",
+            "template": "Hi {{USERNAME}},\n\nYour {{SERVICE}} password expired on {{DATE}}. To avoid losing access, reset it now.\n\nReset link: http://mail-security-auth.com/reset\n\nIT Support"
+        },
+        {
+            "subject": "Security Alert: Suspicious Sign-In Attempt",
+            "template": "We blocked a sign-in attempt to your {{SERVICE}} from {{COUNTRY}}.\n\nDevice: {{DEVICE}}\nTime: {{DATE}}\n\nIf this wasn't you, secure your account immediately:\nhttp://verify-account-login.com/auth"
+        },
+        {
+            "subject": "Corporate Benefits Update \u2013 Document Online",
+            "template": "Dear {{USERNAME}},\n\nYour company benefits have been updated. Please review the official document.\n\nCompany: {{COMPANY}}\nUpdated on: {{DATE}}\nDocument: http://corp-benefits-docs.com/view\n"
+        }
+    ]
+}

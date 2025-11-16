@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "You receive an email saying your account will close in 24 hours unless you click a link. What do you do?",
+            "options": [
+                "Click immediately",
+                "Ignore and delete",
+                "Verify sender & check official site",
+                "Reply to confirm"
+            ],
+            "correct": "Verify sender & check official site"
+        },
+        {
+            "question": "The sender's domain looks like '@secure-microsoft-login-support.com'. This is:",
+            "options": [
+                "Normal",
+                "Safe partner domain",
+                "Suspicious phishing domain",
+                "System update domain"
+            ],
+            "correct": "Suspicious phishing domain"
+        },
+        {
+            "question": "What is the safest action when an email urges 'URGENT RESPONSE REQUIRED'?",
+            "options": [
+                "Click the link",
+                "Open attachment",
+                "Verify on official site",
+                "Forward to friends"
+            ],
+            "correct": "Verify on official site"
+        },
+        {
+            "question": "You see '@' symbol used inside a URL to redirect. This means:",
+            "options": [
+                "Normal redirect",
+                "Hidden phishing redirect",
+                "Bank website feature",
+                "Email login feature"
+            ],
+            "correct": "Hidden phishing redirect"
+        },
+        {
+            "question": "Which password reset message is most suspicious?",
+            "options": [
+                "Reset your password using company portal",
+                "Visit https://company.com/reset",
+                "Visit http://security-check-info.com/reset",
+                "Password expires in 30 days"
+            ],
+            "correct": "Visit http://security-check-info.com/reset"
+        }
+    ]
+}
